@@ -4,7 +4,7 @@
 
 > gcc -fPIC -shared -o libadd.so add.c
 
-There will be a file name libadd.so created
+There will be a file named libadd.so created
 
 > #from the root dir
 
